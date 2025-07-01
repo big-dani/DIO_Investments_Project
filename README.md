@@ -52,6 +52,6 @@ Este projeto está licenciado sob a Licença MIT. Para mais detalhes, consulte o
 
 ## Autor
 
-**Danilo Ezequiel**
+**Danilo Ezequiel Braga da Silva**
 
 ---
